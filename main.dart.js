@@ -48335,7 +48335,7 @@ e=e.ax
 e===$&&A.a()
 d=t.N
 s=11
-return A.x(e.mA("panel-giris",A.aa(["username",l,"password",g.a.a],d,d)),$async$pe)
+return A.x(e.mA("panel-giris-ts",A.aa(["username",l,"password",g.a.a],d,d)),$async$pe)
 case 11:k=a0
 s=12
 return A.x(f.b.ghN().yP(A.aY(t.f.a(k.a).h(0,"refresh_token"))),$async$pe)
